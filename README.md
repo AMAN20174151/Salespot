@@ -59,7 +59,7 @@ Salespot is an android app for selling and buying of old goods within a college 
 ![feedback](Screenshots/Feedback.jpg)
 
 
-## Demo
+## Note
 
 Auto-reply email and email-notifications are disabled. To enable it go to Config.java file and provide email id and password.
 
